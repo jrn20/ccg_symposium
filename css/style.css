@@ -6,6 +6,9 @@
  * Made By MaterializeCSS.com
  */
 
+a[disabled="disabled"] {
+  pointer-events: none;
+}
  
 nav ul a,
 nav .brand-logo {
